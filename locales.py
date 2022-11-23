@@ -102,8 +102,8 @@ locale_ru.info_message = (
         'поддержку или попросить о помощи в нашем чате.\n\n'
         )
 locale_uk.info_message = (
-        'Якщо у вас залишилися питання після прочитання статті, ви можете в будь-який час звернутися в службу '
-        'підтримки або попросити про допомогу в нашому публічному чаті.\n\n'
+        'Якщо у вас залишилися питаннiя, ви можете в будь-який час звернутися в службу '
+        'підтримки або попросити про допомогу в нашому чаті.\n\n'
        )
 locale_de.info_message = (
         'Wenn du nach dem Lesen des Artikels noch Fragen hast, kannst du den Support kontaktieren oder einfach '
